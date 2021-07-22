@@ -1,0 +1,8 @@
+/maps/autosave
+/maps/*.log
+/maps/*.bsp
+/maps/*.prt
+/maps/*-compile.*
+
+
+
